@@ -4,3 +4,5 @@ The AI-powered groundwater intelligence platform transforms scattered and fragme
 Screeshnshots of the App:-
 ![App Screenshot](./assets/Screenshots%20of%20the%20App/App%20ss.jpg)
 ![Tech Stack](./assets/Screenshots%20of%20the%20App/Tech%20Stack.jpg)
+![Research Dashboard](./assets/Screenshots%20of%20the%20App/Research%20Dashboard.jpg)
+![Farmer Dashboard](./assets/Screenshots%20of%20the%20App/Farm%20Dashboard.jpg)
