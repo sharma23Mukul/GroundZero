@@ -8,5 +8,5 @@ Screenshots of the App:
 <img src="./assets/Screenshots%20of%20the%20App/Research%20Dashboard.jpg" alt="Research Dashboard" width="100"/>  
 
 <img src="./assets/Screenshots%20of%20the%20App/Farm%20Dashboard.jpg" alt="Farmer Dashboard" width="100"/>  
-<img src="./assets/Screenshots%20of%20the%20App/Tech%20Stack.jpg" alt="Tech Stack" width="100"/>  
+<img src="./assets/Screenshots%20of%20the%20App/Tech%20Stack.jpg" alt="Tech Stack" width="200"/>  
 
