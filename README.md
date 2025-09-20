@@ -1,16 +1,6 @@
-# next_hack
+The AI-powered groundwater intelligence platform transforms scattered and fragmented data into clean, real-time, actionable insights, enabling farmers, policymakers, and researchers to make proactive decisions. It equips farmers with forecasts and risk alerts for optimized irrigation and crop planning, helps policymakers design sustainable water management strategies and respond to potential crises, and provides researchers with structured datasets and predictive models for scientific analysis. By unifying information into a single science-based advisory, the platform reduces manual effort, lowers the risk of water mismanagement, and promotes long-term water security at scale.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screeshnshots of the App:-
+![App Screenshot](./assets/Screenshots%20of%20the%20App/App%20ss.jpg.png)
+![Tech Stack](./assets/Screenshots%20of%20the%20App/Tech%20Stack.jpg)
